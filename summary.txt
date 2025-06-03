@@ -1,0 +1,24 @@
+Summary of Learning – Task 6: Create a Strong Password and Evaluate Its Strength
+
+1. What Makes a Password Strong:
+A strong password includes a combination of uppercase and lowercase letters, numbers, special characters, and is typically at least 12–16 characters long. It should not contain dictionary words, personal information, or predictable patterns.
+
+2. Observations from Password Testing:
+During testing, I found that simple passwords like "password123" were marked as weak and could be cracked instantly. On the other hand, passwords with a mix of characters and longer lengths, such as "H@ckM3IfYouCan#2025", received high scores and showed longer estimated crack times.
+
+3. Best Practices for Creating Strong Passwords:
+- Use at least one uppercase and one lowercase letter
+- Include numbers and special characters (!, @, #, etc.)
+- Make the password at least 12 characters long
+- Avoid using common words, names, or birthdates
+- Use a password manager to generate and store complex passwords
+
+4. How Password Complexity Affects Security:
+Complex passwords increase the number of possible combinations, which makes them much harder to guess or crack. Longer and more complex passwords significantly reduce the risk of successful brute-force or dictionary attacks.
+
+5. Common Password Attacks:
+- Brute Force Attack: Tries all possible combinations until the correct one is found. Stronger passwords take much longer to crack.
+- Dictionary Attack: Uses lists of common or leaked passwords to guess the correct one. These attacks are more effective on simple or predictable passwords.
+
+Conclusion:
+Through this activity, I learned the importance of using complex and unique passwords for better security. Testing passwords using online tools helped me understand what makes a password strong and how to protect against common attack methods.
